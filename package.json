@@ -1,0 +1,17 @@
+{
+  "name": "turmoil",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {
+    "@types/bun": "^1.0.2"
+  },
+  "description": "",
+  "keywords": [],
+  "license": "ISC",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "itty-fetcher": "^0.9.4"
+  }
+}

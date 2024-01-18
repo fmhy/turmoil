@@ -1,0 +1,6 @@
+[tools]
+dotnet = "latest"
+
+[env]
+FUCK_RUSSIA = "True"
+_.file = '.env'

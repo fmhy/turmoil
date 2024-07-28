@@ -1,5 +1,5 @@
-cli
 .env
 node_modules
 exports
 *.html
+worker/target

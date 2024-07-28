@@ -2,6 +2,7 @@ import { $ } from "./sh";
 import { fetcher } from "itty-fetcher";
 
 const channels = [
+  "997291314389467146", // #add-links
   "997040018604433479", // #to-do
   "986617857133649921", // #bad-sites
   "988133247575810059", // #dead-sites
